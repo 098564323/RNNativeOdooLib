@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNNativeOdooLib } = NativeModules;
+const { RNDemoLib02 } = NativeModules;
 
-export default RNNativeOdooLib;
+export default RNDemoLib02;
